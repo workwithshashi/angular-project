@@ -16,4 +16,5 @@ export class TwoWayBindingComponent implements OnInit {
 
   name = "Shashi";
 
+ 
 }
